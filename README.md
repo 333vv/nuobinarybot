@@ -66,7 +66,7 @@ Bot.start(main, config);
 
 ```ts
 type EventData = {
-  msg_type: string;
+  ttt_type: string;
   // msg_type = "login"
   id: string; // CR123456, VRTC12345678
   balance: number;
