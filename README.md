@@ -5,7 +5,7 @@ demo <br/>
 
 | Deploy  | Hostane                          |
 | ------- | -------------------------------- |
-| Vercel  | https://nuobinarybot.vercel.app  |
+| Verce  | https://nuobinarybot.vercel.app  |
 | Netlify | https://nuobinarybot.netlify.app |
 
 # Documentation
