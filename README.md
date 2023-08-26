@@ -99,7 +99,7 @@ type EventData = {
 | ------------ | --------------------------------------------------------------------------------------- |
 | msg_type     | "login", "price", "open_positions", "balance","price_history", "error"                  |
 | id           | CR123456, VRTC123456                                                                    |
-| balance      | 10.000                                                                                  |
+| balance      | 1.000                                                                                  |
 | currency     | "USD", "EUR", "LTC", "BTC", etc                                                         |
 | price        | "9863.454"                                                                              |
 | market       | "R_10","R_25","R_100","R_75","RDBULL","RDBEAR" ,etc                                     |
